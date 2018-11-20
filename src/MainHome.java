@@ -6,6 +6,9 @@ public class MainHome {
 		
 		method1();
 		testmethod();
+		TestClass1.BananaJuice();
+		System.out.println("Here is the truth: " + TestClass1.OrangeJuice());
+		System.out.print(TestClass1.StrawberryJuice());
 	}
 	
 	public static void testmethod() {
